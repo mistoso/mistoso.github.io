@@ -1,2 +1,2 @@
 # mistoso.github.io
-my mport
+прототип портфоліо на github Сторінках.
